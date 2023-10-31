@@ -48,4 +48,4 @@ admin.site.register(Employee,EmployeeAdmin)
 ![Alt text](<Screenshot (45).png>)
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM hass been executed successfully.
